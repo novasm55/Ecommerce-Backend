@@ -4,7 +4,7 @@ This repository contains the backend for an E-commerce application using Node.js
 
 ## Walkthrough Videos
 
-[URL]()
+[URL](https://github.com/novasm55/Ecommerce-Backend/tree/main/Assets)
 
 ## Table of Contents
 
