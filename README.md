@@ -30,7 +30,7 @@ To start the application, run the following command:
 node server.js
 ```
 
-The server will start and listen on the port specified in the `server.js` file (default is 3001). You can now use an API testing tool like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test the API endpoints.
+The server will start and listen on the port specified in the `server.js` file (default is 3001). You can now use an API testing tool such as [Insomnia](https://insomnia.rest/) to test the API endpoints.
 
 
 
