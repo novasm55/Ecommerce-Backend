@@ -4,7 +4,7 @@ This repository contains the backend for an E-commerce application using Node.js
 
 ## Walkthrough Videos
 
-[URL](https://github.com/novasm55/Ecommerce-Backend/blob/b683c70b798fe46f461e3ab2e30f5b079e4b0560/WalkthruVIDEOGitBashSeeding.mp4)
+[URL]()
 
 ## Table of Contents
 
